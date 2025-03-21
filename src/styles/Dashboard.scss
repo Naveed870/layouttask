@@ -8,14 +8,13 @@ body {
   background-color: $background-color;
 }
 .first-section{
-    background-color: white;
-   
+    background-color: white;   
     border-radius: 10px;
   }
 
 .dashboard-container {
   max-width: 100%;
-  margin: 0 auto;
+  margin: 20px auto;
   padding: 20px;
   background: linear-gradient(180deg, #e6f0fa 0%, #ffffff 100%);
   min-height: 100vh;
